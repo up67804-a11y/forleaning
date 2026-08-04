@@ -1,0 +1,18 @@
+button{
+  background-color: green ;
+  color:white;
+  padding:10px 20px;
+  font-size:16px;
+  border:none;
+  border-radius: 5px;
+  curser:pointer;
+  }
+body {
+  background-color: lightyblack;
+}
+
+h3 {
+ color: black;
+  text-align: center;
+  font-size: 40px;
+}
